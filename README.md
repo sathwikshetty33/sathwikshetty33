@@ -53,14 +53,27 @@ mindmap
 - MySQL
 - PostgreSQL
 
+## 🎯 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sathwikshetty?theme=dark&font=Adamina&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/sathwikshetty?theme=dark&font=baloo&extension=activity" alt="LeetCode Activity"/>
+</div>
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sathwikshetty33">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/sathwikshetty33">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://linktr.ee/sathwikshetty33">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <a href="https://leetcode.com/sathwikshetty">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
 </p>
 
@@ -79,4 +92,3 @@ mindmap
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sathwikshetty33&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
-
