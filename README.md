@@ -56,8 +56,34 @@ mindmap
 ## 🎯 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sathwikshetty2005?theme=dark&font=Adamina&ext=heatmap" alt="LeetCode Stats"/>
+  <!-- Animated LeetCode Stats Header -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🏆+LeetCode+Stats;Solving+Problems+Daily&center=true&color=FFA116&width=380&height=45">
+  <!-- LeetCode Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/sathwikshetty2005&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https://leetcode-badge.vercel.app/api/users/sathwikshetty2005&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking"/>
+  </p>
+  <!-- Main Stats Card with Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/sathwikshetty2005?theme=dark&font=Adamina&ext=heatmap&animation=true&border=1&radius=20" alt="LeetCode Stats"/>
+  <!-- Animated Problem Solved Distribution -->
+  <img src="https://leetcode-stats-six.vercel.app/api?username=sathwikshetty2005&theme=dark" alt="LeetCode Problem Solved Distribution"/>
+  <!-- Contest Rating Stats -->
+  <img src="https://leetcode.card.workers.dev/sathwikshetty2005?theme=dark&font=baloo&extension=activity&border=1&radius=20" alt="LeetCode Contest Stats"/>
+  <!-- Progress Animation -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikshetty2005&theme=dark&ring=FFA116&fire=FFA116&currStreakLabel=FFA116" alt="Current Streak"/>
+  </p>
 </div>
+<details>
+<summary align="center">📈 Detailed LeetCode Progress</summary>
+<br>
+<div align="center">
+mermaidCopypie title Problem Solving Distribution
+    "Easy" : 30
+    "Medium" : 45
+    "Hard" : 25
+</div>
+</details>
 
 ## 🌐 Connect With Me
 
