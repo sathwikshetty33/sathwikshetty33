@@ -81,7 +81,9 @@ mindmap
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
 </p>
-
+<p align="center">
+  📫 Reach me at: sathwikshetty2k5@example.com
+</p>
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -90,10 +92,6 @@ mindmap
 
 ---
 
-<p align="center">
-  📫 Reach me at: sathwikshetty2k5@example.com
-</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathwikshetty33&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+
+
