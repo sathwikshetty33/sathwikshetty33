@@ -84,6 +84,7 @@ mindmap
 <p align="center">
   📫 Reach me at: sathwikshetty2k5@example.com
 </p>
+
 ## 📈 GitHub Activity
 
 <p align="center">
