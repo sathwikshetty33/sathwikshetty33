@@ -56,7 +56,7 @@ mindmap
 ## 🎯 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sathwikshetty?theme=dark&font=Adamina&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sathwikshetty2005?theme=dark&font=Adamina&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
