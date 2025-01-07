@@ -66,24 +66,7 @@ mindmap
   <!-- Main Stats Card with Heatmap -->
   <img src="https://leetcard.jacoblin.cool/sathwikshetty2005?theme=dark&font=Adamina&ext=heatmap&animation=true&border=1&radius=20" alt="LeetCode Stats"/>
   <!-- Animated Problem Solved Distribution -->
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sathwikshetty2005&theme=dark" alt="LeetCode Problem Solved Distribution"/>
-  <!-- Contest Rating Stats -->
-  <img src="https://leetcode.card.workers.dev/sathwikshetty2005?theme=dark&font=baloo&extension=activity&border=1&radius=20" alt="LeetCode Contest Stats"/>
-  <!-- Progress Animation -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikshetty2005&theme=dark&ring=FFA116&fire=FFA116&currStreakLabel=FFA116" alt="Current Streak"/>
-  </p>
-</div>
-<details>
-<summary align="center">📈 Detailed LeetCode Progress</summary>
-<br>
-<div align="center">
-mermaidCopypie title Problem Solving Distribution
-    "Easy" : 30
-    "Medium" : 45
-    "Hard" : 25
-</div>
-</details>
+
 
 ## 🌐 Connect With Me
 
