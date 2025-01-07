@@ -62,7 +62,7 @@ mindmap
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/sathwik-shetty-50729a324">
+  <a href="https://www.linkedin.com/in/sathwik-shetty-50729a324">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/sathwikshetty">
