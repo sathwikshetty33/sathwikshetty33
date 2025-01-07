@@ -65,7 +65,7 @@ mindmap
   <a href="www.linkedin.com/in/sathwik-shetty-50729a324">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/sathwikshetty33">
+  <a href="https://linktr.ee/sathwikshetty">
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="https://leetcode.com/sathwikshetty2005">
