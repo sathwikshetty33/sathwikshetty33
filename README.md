@@ -90,12 +90,6 @@ mindmap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikshetty33&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathwikshetty33&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 
 
 
