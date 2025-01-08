@@ -85,11 +85,11 @@ mindmap
   📫 Reach me at: sathwikshetty2k5@example.com
 </p>
 
+
 ## 📈 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikshetty33&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-
 
 
