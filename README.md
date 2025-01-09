@@ -32,26 +32,11 @@
   <img src="https://img.shields.io/badge/gin-%23000000.svg?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"/>
 </p>
 
-### 🛠 DevOps & Tools
-```mermaid
-mindmap
-  root((DevOps))
-    Containerization
-      Docker
-      Kubernetes
-    Cloud
-      AWS
-    CI/CD
-      GitHub Actions
-    Monitoring
-      Redis
-    Version Control
-      Git
-```
 
 ## 📊 Database Expertise
 - MySQL
-- PostgreSQL
+- Redis
+- Sqlite
 
 ## 🎯 LeetCode Stats
 
