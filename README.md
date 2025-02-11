@@ -12,12 +12,14 @@
 
 ## 🚀 About Me
 
-> DevOps enthusiast and full-stack developer passionate about building scalable solutions and automating workflows
+Backend enthusiast passionate about building scalable solutions and exploring emerging technologies
 
-- 🔭 Currently diving deep into **Cloud Computing** and **DevOps practices**
-- 🌱 Learning advanced concepts in **Kubernetes** and **AWS**
-- 👯 Looking to collaborate on innovative open-source projects
-- 💡 Always excited to learn new technologies and best practices
+
+🔭 Currently diving deep into Backend Development and Web3
+🌱 Learning advanced backend concepts like gRPC and tools like Docker
+🔗 Exploring Blockchain technology and its applications
+👯 Looking to collaborate on innovative open-source projects
+💡 Always excited to learn new technologies and best practices
 
 ## 💻 Tech Stack
 
