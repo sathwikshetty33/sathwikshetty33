@@ -14,12 +14,14 @@
 
 Backend enthusiast passionate about building scalable solutions and exploring emerging technologies
 
-
 🔭 Currently diving deep into Backend Development and DevOps </br>
 🌱 Learning advanced backend concepts like gRPC and tools like Docker </br>
 🔗 Exploring DevOps technology and its applications </br>
 👯 Looking to collaborate on innovative open-source projects </br>
 💡 Always excited to learn new technologies and best practices </br>
+
+📄 [View My Resume](https://drive.google.com/file/d/1ENvx-3BFdNl23l7h_PwklJVi6Q9PIi8h/view?usp=sharing)  
+🌐 [Visit My Portfolio](http://sathwikshetty.me)
 
 ## 💻 Tech Stack
 
@@ -34,7 +36,6 @@ Backend enthusiast passionate about building scalable solutions and exploring em
   <img src="https://img.shields.io/badge/gin-%23000000.svg?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"/>
 </p>
 
-
 ## 📊 Database Expertise
 - MySQL
 - Redis
@@ -43,17 +44,13 @@ Backend enthusiast passionate about building scalable solutions and exploring em
 ## 🎯 LeetCode Stats
 
 <div align="center">
-  <!-- Animated LeetCode Stats Header -->
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🏆+LeetCode+Stats;Solving+Problems+Daily&center=true&color=FFA116&width=380&height=45">
-  <!-- LeetCode Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/sathwikshetty2005&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https://leetcode-badge.vercel.app/api/users/sathwikshetty2005&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking"/>
   </p>
-  <!-- Main Stats Card with Heatmap -->
   <img src="https://leetcard.jacoblin.cool/sathwikshetty2005?theme=dark&font=Adamina&ext=heatmap&animation=true&border=1&radius=20" alt="LeetCode Stats"/>
-  <!-- Animated Problem Solved Distribution -->
-
+</div>
 
 ## 🌐 Connect With Me
 
@@ -72,11 +69,8 @@ Backend enthusiast passionate about building scalable solutions and exploring em
   📫 Reach me at: sathwikshetty2k5@example.com
 </p>
 
-
 ## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikshetty33&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-
