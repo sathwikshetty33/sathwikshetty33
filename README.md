@@ -15,9 +15,9 @@
 Backend enthusiast passionate about building scalable solutions and exploring emerging technologies
 
 
-🔭 Currently diving deep into Backend Development and Web3 </br>
+🔭 Currently diving deep into Backend Development and DevOps </br>
 🌱 Learning advanced backend concepts like gRPC and tools like Docker </br>
-🔗 Exploring Blockchain technology and its applications </br>
+🔗 Exploring DevOps technology and its applications </br>
 👯 Looking to collaborate on innovative open-source projects </br>
 💡 Always excited to learn new technologies and best practices </br>
 
