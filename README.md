@@ -20,7 +20,7 @@ Backend enthusiast passionate about building scalable solutions and exploring em
 👯 Looking to collaborate on innovative open-source projects </br>
 💡 Always excited to learn new technologies and best practices </br>
 
-📄 [View My Resume](https://drive.google.com/file/d/1ENvx-3BFdNl23l7h_PwklJVi6Q9PIi8h/view?usp=sharing)  
+📄 [View My Resume](https://drive.google.com/file/d/1zzuHrcQgF3eLl9jObgW9ZkbM4nTEWmsa/view?usp=sharing)  
 🌐 [Visit My Portfolio](http://sathwikshetty.me)
 
 ## 💻 Tech Stack
