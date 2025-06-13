@@ -14,7 +14,7 @@
 
 Backend and DevOps enthusiast skilled in building scalable full-stack systems with CI/CD pipelines, containerization, and cloud deployments. Passionate about solving real-world problems through microservices and automation. Currently expanding into Machine Learning to bring intelligence to backend systems.
 
-🎓 **B.E. in AI & ML** at **Dayananda Sagar College of Engineering** (CGPA: 9.45) <br>
+🎓 **B.E. in AI & ML** at **Dayananda Sagar College of Engineering** <br>
 🔭 **Co-lead** at **CodeZero Technical Club, AIML Dept DSCE** <br>
 🌱 Learning advanced **System Design** and **Microservices Architecture** <br>
 🔗 Exploring **Kubernetes**, **CI/CD pipelines**, and **Cloud Technologies** <br>
