@@ -21,7 +21,7 @@ Backend and DevOps enthusiast skilled in building scalable full-stack systems wi
 👯 Looking to collaborate on **open-source projects** and **innovative solutions** <br>
 💡 Always excited to learn new technologies and best practices <br>
 
-📄 [**View My Resume**](https://drive.google.com/file/d/1zzuHrcQgF3eLl9jObgW9ZkbM4nTEWmsa/view?usp=sharing) | 🌐 [**Visit My Portfolio**](http://sathwikshetty.me)
+📄 [**View My Resume**](https://drive.google.com/file/d/1uKpKd9duoSqOhmbzrvivRyqQTNh9G72o/view?usp=sharing) | 🌐 [**Visit My Portfolio**](http://sathwikshetty.me)
 
 ## 💻 Tech Stack
 
