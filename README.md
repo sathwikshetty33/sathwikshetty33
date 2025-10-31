@@ -68,7 +68,6 @@ Backend and DevOps enthusiast skilled in building scalable full-stack systems wi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty33&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -78,6 +77,18 @@ Backend and DevOps enthusiast skilled in building scalable full-stack systems wi
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikshetty33&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
+
+---
+
+## 🎖️ Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@sathwikshetty33" target="_blank">
+    <img src="https://holopin.me/sathwikshetty33" alt="Sathwik's Hacktoberfest Badges Holopin badges" style="max-width:80%; border-radius:12px; border:2px solid #8A2BE2;" />
+  </a>
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
