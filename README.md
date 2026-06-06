@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1k69WpIH7DXGsIleEVb-iA2H1lkbNBpVV/view?usp=sharing">View Resume</a> |
-  <a href="http://sathwikshetty.me">View Portfolio</a>
+  <a href="https://drive.google.com/file/d/18auVQoNGkTSQhdtgPispLRHliRqbh3ro/view?usp=sharing">View Resume</a> |
+  <a href="http://sathwikshetty.tech">View Portfolio</a>
 </p>
 
 <div align="center">
