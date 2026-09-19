@@ -117,7 +117,7 @@ I enjoy solving problems related to scalability, performance, reliability, and A
   <a href="https://github.com/sathwikshetty33">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="http://sathwikshetty.me">
+  <a href="http://sathwikshetty.tech">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </p>
